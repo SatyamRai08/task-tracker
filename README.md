@@ -32,8 +32,8 @@ This project is designed to demonstrate **frontend UI design + basic backend + D
 
 ## 📸 Screenshot
 
-> Add your screenshot here 👇  
-(Upload image and rename to `screenshot.png`)
+<img width="802" height="618" alt="Screenshot" src="https://github.com/user-attachments/assets/151ea48f-1019-4a5f-bf13-28d7bceb3a7e" />
+
 
 ---
 
